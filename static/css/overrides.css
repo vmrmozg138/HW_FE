@@ -1,0 +1,54 @@
+.sidebar-panel{
+    background-color: #000000;
+    border-right: 1px solid #333333;
+    padding: 1rem;
+}
+
+.sidebar-panel h5,
+.sidebar-panel a {
+  color: #ffffff;
+}
+
+.sidebar-menu li {
+  margin-bottom: 0.5rem;
+}
+
+.sidebar-menu a {
+  display: block;
+  text-decoration: none;
+  color: #e0e0e0;
+  transition: color 0.2s ease;
+}
+
+.sidebar-menu a:hover {
+  background-color: #20B2AA;
+  border-radius: 0.25rem;
+  color: #ffffff;
+  padding-left: 0.25rem;
+}
+
+.my-ddi {
+    color: #000000 !important;
+}
+
+.my-ddi a.hover {
+    background-color: #FF00FF !important;
+}
+
+.mx-my-2 {
+    margin: 0.5rem 2rem;
+}
+
+.mx-my-1 {
+    margin: 0.5rem 1rem;
+}
+
+.price {
+    margin: 5% auto;
+    font-size: 220%;
+    font-weight: bold;
+}
+
+.unit-description{
+    margin: 5% auto;
+}
